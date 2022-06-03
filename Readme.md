@@ -8,7 +8,7 @@ Tout ce passe ici : https://www.notion.so/08fd03dbd6ab4b2281da4f05fc906d8d?v=fb1
  - Issam LHOUS
  - Younes EL HASSANI
  - Fatima Zahra EL HADIG
- ## description de l’idée de départ  
+ ## Description de l’idée de départ  
       Dans le cadre du projet PAI nous sommes en train de travailler sur notre projet intitulé "FINAHOWA" 
       
       L'idée derrière ce projet est de developper une plateform permettant le suivi de colis, 
@@ -33,6 +33,14 @@ Tout ce passe ici : https://www.notion.so/08fd03dbd6ab4b2281da4f05fc906d8d?v=fb1
      plus facile dans la base de données par numero de colis , le suivi de trajet des colis...) 
      est que les clients se sentiront plus en sécurité, en ayant une visibilité sur le trajet de leurs colis, les 
      poussera à choisir cette agence.
+ 
+ ## Étude de terrain de départ
+ 
+     Afin d'étudier le terrain, nous avons effectué des interviews avec des agences
+     ( 5 agences environ parmi elles Adar Voyage, lille et un voyage )
+     Nous avons eu des feedback différents sur le projet, dans le sens où des agences ont été accueillantes de
+     l'idée, et d'autres cela ne les arangeaient pas pour différentes raisons ( le chiffre d'affaire ne les permet
+     pas de prendre un abonnement comme charge supplémentaire.
      
      
       
